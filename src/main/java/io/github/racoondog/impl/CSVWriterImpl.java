@@ -1,4 +1,7 @@
-package io.github.racoondog;
+package io.github.racoondog.impl;
+
+import io.github.racoondog.DynamicCSVWriter;
+import io.github.racoondog.StaticCSVWriter;
 
 import java.io.IOException;
 import java.io.Writer;
